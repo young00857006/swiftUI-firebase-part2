@@ -1,9 +1,3 @@
-//
-//  CreateHouse.swift
-//  part1
-//
-//  Created by 賴冠宏 on 2022/6/22.
-//
 
 import SwiftUI
 import FirebaseAuth

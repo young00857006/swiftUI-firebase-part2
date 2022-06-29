@@ -1,9 +1,4 @@
-//
-//  CreatorJoin.swift
-//  part1
-//
-//  Created by 賴冠宏 on 2022/6/18.
-//
+
 
 import SwiftUI
 import FirebaseAuth

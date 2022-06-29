@@ -1,9 +1,3 @@
-//
-//  Game.swift
-//  part1
-//
-//  Created by 賴冠宏 on 2022/6/23.
-//
 
 import SwiftUI
 import FirebaseAuth
@@ -562,7 +556,7 @@ struct Game: View {
                     Text("money:\(m1)")
                 }
                 .frame(width:170, height:90)
-                .background(Color.red)
+                .background(Color.)
                 .cornerRadius(10)
                 .offset(x: -10, y: -260)
                 VStack{
